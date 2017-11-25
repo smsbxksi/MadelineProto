@@ -15,6 +15,7 @@
         "krakjoe/pthreads-polyfill": "*"
     },
     "require": {
+        "minimum-stability": "dev",
         "danog/madelineproto":"dev-master",
         "php": ">=5.6.0",
         "danog/primemodule": "dev-master",
